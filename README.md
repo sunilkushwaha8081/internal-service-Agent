@@ -116,7 +116,7 @@ Issue Categorization
    Audit Log
 
 
-###  Technology Stack
+#  Technology Stack
 - Python
 - FastAPI
 - OpenAI API
@@ -128,7 +128,7 @@ Issue Categorization
 - JSON-based Audit Logging
 
 
-## Project Structure
+# Project Structure
 
 ```text
 AIONOS/
