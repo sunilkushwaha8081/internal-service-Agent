@@ -114,3 +114,51 @@ Issue Categorization
        |
        v
    Audit Log
+
+
+###  Technology Stack
+- Python
+- FastAPI
+- OpenAI API
+- Pydantic
+- Python-dotenv
+- Pytest
+- Markdown Knowledge Base
+- JSON-based Ticket Storage
+- JSON-based Audit Logging
+
+
+## Project Structure
+
+```text
+AIONOS/
+├── app/
+│   ├── __init__.py
+│   ├── agent.py
+│   ├── audit.py
+│   ├── knowledge_base.py
+│   ├── main.py
+│   ├── promt.py
+│   ├── ticketing.py
+│   └── tools.py
+│
+├── audit_log/
+│   └── .gitkeep
+│
+├── knowledge_base/
+│   ├── policies/
+│   └── shooting/
+│
+├── tests/
+│   ├── __pycache__/
+│   ├── escalation.py
+│   ├── search.py
+│   ├── test_agent.py
+│   └── test_ticketing.py
+│
+├── tickets/
+│   └── .gitkeep
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
