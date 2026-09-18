@@ -1,0 +1,10 @@
+{
+  "ticket_id": "IT-20260918-896972",
+  "created_at": "2026-09-18T12:58:23.976796",
+  "category": "GENERAL",
+  "issue": "done",
+  "priority": "MEDIUM",
+  "escalation_reason": "No approved internal resolution found",
+  "source": null,
+  "status": "OPEN"
+}

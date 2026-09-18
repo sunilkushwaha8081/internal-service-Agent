@@ -1,0 +1,10 @@
+{
+  "ticket_id": "IT-20260918-BC2006",
+  "created_at": "2026-09-18T11:23:05.548187",
+  "category": "VPN",
+  "issue": "VPN authentication failed",
+  "priority": "MEDIUM",
+  "escalation_reason": "Authentication failure",
+  "source": null,
+  "status": "OPEN"
+}

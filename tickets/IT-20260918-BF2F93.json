@@ -1,0 +1,10 @@
+{
+  "ticket_id": "IT-20260918-BF2F93",
+  "created_at": "2026-09-18T11:24:57.248994",
+  "category": "VPN",
+  "issue": "VPN authentication failed",
+  "priority": "MEDIUM",
+  "escalation_reason": "Authentication failure",
+  "source": null,
+  "status": "OPEN"
+}

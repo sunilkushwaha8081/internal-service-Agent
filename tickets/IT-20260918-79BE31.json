@@ -1,0 +1,10 @@
+{
+  "ticket_id": "IT-20260918-79BE31",
+  "created_at": "2026-09-18T11:59:09.154162",
+  "category": "GENERAL",
+  "issue": "Someone hacked my account",
+  "priority": "HIGH",
+  "escalation_reason": "Potential security-sensitive or risky request",
+  "source": null,
+  "status": "OPEN"
+}

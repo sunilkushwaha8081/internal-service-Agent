@@ -1,0 +1,10 @@
+{
+  "ticket_id": "IT-20260918-FCA201",
+  "created_at": "2026-09-18T12:11:07.529115",
+  "category": "GENERAL",
+  "issue": "1",
+  "priority": "MEDIUM",
+  "escalation_reason": "No approved internal resolution found",
+  "source": null,
+  "status": "OPEN"
+}

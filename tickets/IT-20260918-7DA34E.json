@@ -1,0 +1,10 @@
+{
+  "ticket_id": "IT-20260918-7DA34E",
+  "created_at": "2026-09-18T12:59:31.696543",
+  "category": "GENERAL",
+  "issue": "i thik id is hack",
+  "priority": "MEDIUM",
+  "escalation_reason": "No approved internal resolution found",
+  "source": null,
+  "status": "OPEN"
+}
